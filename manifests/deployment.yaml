@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
       - name: user-service
-        image: pttgcacr.azurecr.io/user-service:unstable
+        image: pttgc02acr.azurecr.io/user-service:unstable
         ports:
         - containerPort: 80
 --- 
